@@ -1,15 +1,7 @@
 ################################################################################
 # CSE 253: Programming Assignment 1
 # Winter 2020
-################################################################################
-# We've provided you with the dataset in PA1.zip
-################################################################################
-# To install PIL, refer to the instructions for your system:
-# https://pillow.readthedocs.io/en/5.2.x/installation.html
-################################################################################
-# If you don't have NumPy installed, please use the instructions here:
-# https://scipy.org/install.html
-################################################################################
+
 
 from os import listdir
 import os, random, copy
